@@ -1,0 +1,11 @@
+WEB RESOURCES
+	-Python Library Documentation
+	-Scikit Documentation
+	-TutorialsPoint
+	-GeeksForGeeks
+Competitions / Projects / Communities: https://ods.ai/, https://www.drivendata.org/, https://www.kaggle.com/ 
+News, Articles and References: https://towardsdatascience.com/machine-learning/home
+News, Articles and References: https://medium.com/topic/machine-learning
+Tutorials, Guides, Work Files: https://machinelearningmastery.com/
+Blog by Google: https://blog.google/technology/ai/
+“How to develop a Machine Learning Career”: https://www.simplilearn.com/how-to-build-career-in-ai-and-machine-learning-article
