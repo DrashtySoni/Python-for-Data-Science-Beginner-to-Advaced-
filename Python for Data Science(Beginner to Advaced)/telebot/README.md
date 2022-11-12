@@ -41,3 +41,9 @@ Then run python Flask app.
 python telegrambot.py
 ```
 5. Run the code and test in browser and there you go!
+ 
+## Output
+  
+![alt text](https://github.com/DrashtySoni/Python-for-Data-Science-Beginner-to-Advaced-/blob/main/Python%20for%20Data%20Science(Beginner%20to%20Advaced)/telebot/images/1.jpeg)
+![alt text](https://github.com/DrashtySoni/Python-for-Data-Science-Beginner-to-Advaced-/blob/main/Python%20for%20Data%20Science(Beginner%20to%20Advaced)/telebot/images/2.jpeg)
+![alt text](https://github.com/DrashtySoni/Python-for-Data-Science-Beginner-to-Advaced-/blob/main/Python%20for%20Data%20Science(Beginner%20to%20Advaced)/telebot/images/3.jpeg) 
